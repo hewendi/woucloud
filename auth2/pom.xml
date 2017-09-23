@@ -69,6 +69,15 @@
 			<artifactId>spring-cloud-starter-contract-verifier</artifactId>
 			<scope>test</scope>
 		</dependency> -->
+		
+		<!-- TestNG -->
+		<dependency>
+		  <groupId>org.testng</groupId>
+		  <artifactId>testng</artifactId>
+		  <version>6.12</version>
+		  <scope>test</scope>
+		</dependency>
+		
 	</dependencies>
 
 	<dependencyManagement>
