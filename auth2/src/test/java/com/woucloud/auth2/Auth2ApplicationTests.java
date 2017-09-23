@@ -17,6 +17,15 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 import com.woucloud.auth2.HelloController;
 
+// http://blog.csdn.net/huazhongkejidaxuezpp/article/details/48662833  TestNG 安装
+// http://www.51testing.com/html/58/n-3721258-2.html  testng 配置
+// http://www.51testing.com/html/22/n-3721022.html UI自动化测试jenkins环境
+// http://www.51testing.com/html/87/n-3720887.html jenkins+ant+jmeter接口自动化测试（持续构建）
+// http://www.51testing.com/html/56/n-3720356.html ant+jmeter接口
+// http://www.51testing.com/html/58/n-3719058.html jmeter 实现DB数据与接口数据的匹配校验
+// http://www.51testing.com/html/60/n-3719860.html Jmeter连接DB2/ORACLE/MYSQL数据库
+// https://segmentfault.com/a/1190000010813240   Spring、Spring Boot和TestNG测试指南 - 测试Spring MVC
+// http://testng.org/doc/documentation-main.html  TestNG
 //@RunWith(SpringJUnit4ClassRunner.class)
 //@SpringApplicationConfiguration(classes = Auth2Application.java)
 //@WebApplication
